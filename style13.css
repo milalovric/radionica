@@ -1,0 +1,14 @@
+body {
+    background-color: #191919;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f1f1f1;
+    margin: 1 rem;
+    box-sizing:border-box;
+    text-align: cente;
+    padding-top: 2rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    margin: 0 1 rem;
+}
